@@ -3,7 +3,7 @@
 print('Hello world!')
 ```
 
-![picsum](https://picsum.photos/200 "Lorem picsum!")
+![picsum](https://picsum.photos/600 "Lorem picsum!")
 
 ### Support or Contact
 
