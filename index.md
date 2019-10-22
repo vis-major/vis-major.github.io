@@ -5,6 +5,6 @@ print('Hello world!')
 
 ![picsum](https://picsum.photos/600 "Lorem picsum!")
 
-### Support or Contact
+### Support i kontakt
 
 mailto:volkhv@outlook.com
