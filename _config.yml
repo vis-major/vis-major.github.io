@@ -60,6 +60,7 @@ plugins:
 author:
   name   : "Vainamoinen"
   avatar : "/assets/images/bio-photo.jpg"
+  location : "Bydgoszcz, PL"
   bio    : "Software engineery student, IT technician. 
             I'm interested in mathematics, physics, artificial 
             intelligence and computer graphics."
